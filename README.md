@@ -4,7 +4,7 @@ A simple demo of OSC over SLIP Serial using Python
 The code in this repo demonstrates how [SLIP](https://en.wikipedia.org/wiki/Serial_Line_Internet_Protocol) encoded [OSC messages](https://en.wikipedia.org/wiki/Open_Sound_Control)
 can be handled by a python server.
 
-Th demo uses an arduino to send OSC messages that have been SLIP encoded over the serial line.
+The demo uses an arduino to send OSC messages that have been SLIP encoded over the serial line.
 
 To the receiver, this looks like a stream of binary data, which is exactly what it is!
 
