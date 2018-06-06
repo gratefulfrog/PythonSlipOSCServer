@@ -1,4 +1,6 @@
 # Python Slip OSC Server
+Following Microsoft's purchase of Github, this project has migrated to gitlab.
+
 A simple demo of OSC over SLIP Serial using Python
 
 The code in this repo demonstrates how [SLIP](https://en.wikipedia.org/wiki/Serial_Line_Internet_Protocol) encoded [OSC messages](https://en.wikipedia.org/wiki/Open_Sound_Control)
